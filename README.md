@@ -96,7 +96,7 @@ The model will generate a response based on the indexed data. 🎤✨
 
 ## Local Search Issue
 
-Currently, the local search feature might face compatibility issues. We are brewing a fix. Meanwhile, use the global search method for querying. 🛠️🔧
+Currently, the local search feature might face compatibility issues.
 
 ## Fun with Data
 
